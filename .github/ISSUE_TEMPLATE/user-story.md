@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: New story for a PM in IP
+about: New story for a user using IP platform
 title: ''
 labels: ''
 assignees: ''
